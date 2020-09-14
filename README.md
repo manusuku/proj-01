@@ -1,1 +1,2 @@
-#proj-01 Trying out browser-sync/lite server
+# proj-01
+## simple code trying browser-sync (liteserver)
